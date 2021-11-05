@@ -36,7 +36,7 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
   align-items:flex-start;
 }
 
-.box {
+/* .box {
   width:33.333%;
 }
 
@@ -51,4 +51,4 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 .box9 {
   padding-bottom: 50px;
   align-self:stretch;
-}
+} */
