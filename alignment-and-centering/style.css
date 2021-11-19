@@ -31,25 +31,14 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 /* We start writing out flexbox here. The above is just page setup */
 .container {
   display: flex;
-  border: 10px solid pink;
-  align-items: center;
-  height: 100vh;
 }
 
-.box {
-  width: 33.333%;
+.box1 {
+  flex-basis: 400px;
 }
 
 .box2 {
-  padding-bottom: 200px;
+  flex-basis: 400px;
 }
 
-.box6 {
-  padding-bottom: 0;
-}
-
-.box9 {
-  padding-bottom: 50px;
-  align-self: flex-end;
-}
 
